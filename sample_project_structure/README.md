@@ -3,3 +3,4 @@ go run cmd/myapp/main.go
 
 api folder - Contains api files
 internal folder - contains all packages files
+go folder - contains all dependencies
